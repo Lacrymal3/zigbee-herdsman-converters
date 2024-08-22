@@ -1,5 +1,13 @@
 # Changelog
 
+## [20.4.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.4.0...v20.4.1) (2024-08-22)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE204_fwondbzy` as Moes ZSS-QY-HP ([#7892](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7892)) ([fbab353](https://github.com/Koenkk/zigbee-herdsman-converters/commit/fbab35328890ccce730723e196064667282d0ab2))
+* Support endpoint for window covering modernExtend https://github.com/Koenkk/zigbee-herdsman-converters/pull/7889 ([5a3af85](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5a3af85dd57a008fab09134207d403d5745bd34c))
+
 ## [20.4.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.3.0...v20.4.0) (2024-08-21)
 
 
